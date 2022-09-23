@@ -28,3 +28,8 @@ To run, open a console (or shell and do):
 * "bundle exec jekyll serve --host 0.0.0.0"
 * a "webview" should appear
 * enjoy :)
+
+MORE NOTES:
+* may need to run `gem install bundler:2.3.22` when repl restarts
+* then `bundle install`
+* then `bundle exec jekyll serve --host 0.0.0.0
