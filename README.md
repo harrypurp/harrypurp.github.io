@@ -12,3 +12,19 @@ See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 - Start by adding your info in `_config.yml`
 - In `_layouts/front.html` reorder or remove section as you prefer.
 
+
+
+# !! ATTENTION HARRY !!
+pick a theme and link here:
+
+--------->>>>>>>    LINK <<<<<<<<---------------------
+https://volny.github.io/creative-theme-jekyll/
+
+NOTE:
+
+The Repl "RUN" button doesn't work.
+
+To run, open a console (or shell and do):
+* "bundle exec jekyll serve --host 0.0.0.0"
+* a "webview" should appear
+* enjoy :)
