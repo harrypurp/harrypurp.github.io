@@ -20,7 +20,6 @@ pick a theme and link here:
 --------->>>>>>>    LINK <<<<<<<<---------------------
 https://volny.github.io/creative-theme-jekyll/
 
-NOTE:
 
 The Repl "RUN" button doesn't work.
 
